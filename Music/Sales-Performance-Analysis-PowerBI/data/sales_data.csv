@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Region,State,Category,Sub_Category,Product_Name,Sales,Quantity,Profit
+CA-2019-10001,2019-01-05,West,California,Technology,Phones,iPhone 11,699,1,120
+CA-2019-10002,2019-01-06,East,New York,Furniture,Chairs,Office Chair,250,2,-30
+CA-2019-10003,2019-02-10,South,Texas,Office Supplies,Binders,Heavy Duty Binder,45,3,10
+CA-2019-10004,2019-02-18,Central,Illinois,Technology,Accessories,USB-C Cable,20,5,8
+CA-2019-10005,2019-03-22,West,Washington,Technology,Laptops,MacBook Pro,1800,1,300
+CA-2019-10006,2019-03-30,East,Florida,Furniture,Tables,Conference Table,700,1,-120
+CA-2019-10007,2019-04-04,South,Georgia,Office Supplies,Paper,A4 Paper,30,10,6
+CA-2019-10008,2019-04-18,Central,Ohio,Technology,Phones,Samsung Galaxy,650,1,90
+CA-2019-10009,2019-05-02,West,Oregon,Furniture,Bookcases,Wood Bookcase,400,1,40
+CA-2019-10010,2019-05-19,East,Pennsylvania,Office Supplies,Storage,Plastic Storage Box,80,4,12
